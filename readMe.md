@@ -6,17 +6,11 @@ Welcome to my GitHub profile!
 - 🔭 I’m currently working on **open-source projects** and personal tools.
 - 🌱 I’m learning **C#, Python, C/C++, and reverse engineering **.
 
-## 📫 How to reach me
-- Email: your-email@example.com
-- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/your-profile)
-- Website: [yourwebsite.com](https://yourwebsite.com)
+// 📫 How to reach me
+
 
 ## 🚀 Projects
-Here you'll find my work on:
-- Custom tools and utilities
-- Game mods and servers
-- Android apps
-- Experimental scripts
+I will soon make projects that will beautify my github page. 
 
 ---
 
