@@ -1,13 +1,10 @@
-# Hi there, I'm Switly DEV 👋
+# Hi there, I'm Switly 👋
 
 Welcome to my GitHub profile!
 
 ## 💻 About Me
 - 🔭 I’m currently working on **open-source projects** and personal tools.
-- 🌱 I’m learning **C#, Python, and C++**.
-- 💡 I’m interested in **game development, mobile apps, and server-side programming**.
-- 🤝 I’m looking to collaborate on **innovative software solutions**.
-- ⚡ Fun fact: I love exploring how things work under the hood!
+- 🌱 I’m learning **C#, Python, C/C++, and reverse engineering **.
 
 ## 📫 How to reach me
 - Email: your-email@example.com
