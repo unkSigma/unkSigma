@@ -6,9 +6,6 @@ Welcome to my GitHub profile!
 - 🔭 I’m currently working on **open-source projects** and personal tools.
 - 🌱 I’m learning **C#, Python, C/C++, and reverse engineering **.
 
-// 📫 How to reach me
-
-
 ## 🚀 Projects
 I will soon make projects that will beautify my github page. 
 
